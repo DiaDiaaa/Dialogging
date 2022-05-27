@@ -18,19 +18,33 @@
     },
     {	
         "speaker" : "witch1",
-        "dialog" : "Where the place?"
+        "dialog" : "Where the place?",
+        "newSpeaker" : "true"
     },
     {	
         "speaker" : "witch2",
-        "dialog" : "Upon the heath."
+        "dialog" : "Upon the heath.",
+        "newSpeaker" : "true"
     },
     {	
         "speaker" : "witch3",
-        "dialog" : "There to meet with Macbeth."
+        "dialog" : "There to meet with Macbeth.",
+        "newSpeaker" : "true"
     },
     {	
         "speaker" : "witch1",
-        "dialog" : "I come, Graymalkin!"
+        "dialog" : "I come, Graymalkin!",
+        "newSpeaker" : "true"
+    },
+    {	
+        "speaker" : "witch2",
+        "dialog" : "Paddock calls.",
+        "newSpeaker" : "true"
+    },
+    {	
+        "speaker" : "witch2",
+        "dialog" : "Anon.",
+        "newSpeaker" : "true"
     }
   ]
 ]
